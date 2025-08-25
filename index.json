@@ -3,7 +3,7 @@
     {
       "name": "com.maskedkitten.musicshuffling",
       "displayName": "Music Shuffling",
-      "description": "Little music shuffling package, multiple songs and cooldown between songs",
+      "description": "Little music shuffling package, multiple songs and cooldown between songs.",
       "version": "1.0.0",
       "files": [
         "MusicShuffling/Runtime/DisableMusic.cs",
@@ -15,6 +15,15 @@
         "MusicShuffling/Runtime/Examples/Materials/New Material 3.mat",
         "MusicShuffling/Runtime/Examples/Materials/New Material.mat",
         "MusicShuffling/Runtime/Examples/Prefab/MusicPlayer.prefab"
+      ]
+    },
+    {
+      "name": "com.maskedkitten.advancedenabledisable",
+      "displayName": "Advanced Enable Disable",
+      "description": "Basically a enable disable script with a bunch of features to enable or disable something.",
+      "version": "1.0.0",
+      "files": [
+        "AdvancedEnableDisable/Runtime/AdvancedEnableDisable.cs"
       ]
     }
   ]
