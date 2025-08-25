@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "name": "com.maskedkitten.musicshuffling",
+      "displayName": "Music Shuffling",
+      "description": "Little music shuffling package, multiple songs and cooldown between songs",
+      "version": "1.0.0",
+      "gitUrl": "https://github.com/maskedkittencool/FatUsagiManager.git?path=/MusicShuffling"
+    }
+  ]
+}
