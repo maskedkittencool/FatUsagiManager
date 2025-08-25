@@ -37,6 +37,16 @@
       "files": [
         "TextBounceToBPM/Runtime/TextBounce.cs"
       ]
+    },
+    {
+      "name": "com.maskedkitten.3dshader",
+      "displayName": "3D Shader",
+      "description": "A shader that makes textures 3D! Make sure to use displacement maps to use this, and put it under HeightMap.",
+      "version": "1.0.0",
+      "author": "MaskedKitten",
+      "files": [
+        "3DShader/Runtime/POMShader.shadergraph"
+      ]
     }
   ]
 }
