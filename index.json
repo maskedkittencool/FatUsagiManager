@@ -5,6 +5,7 @@
       "displayName": "Music Shuffling",
       "description": "Little music shuffling package, multiple songs and cooldown between songs.",
       "version": "1.0.0",
+      "author": "MaskedKitten",
       "files": [
         "MusicShuffling/Runtime/DisableMusic.cs",
         "MusicShuffling/Runtime/EnableMusic.cs",
@@ -22,6 +23,7 @@
       "displayName": "Advanced Enable Disable",
       "description": "Basically a enable disable script with a bunch of features to enable or disable something.",
       "version": "1.0.0",
+      "author": "MaskedKitten",
       "files": [
         "AdvancedEnableDisable/Runtime/AdvancedEnableDisable.cs"
       ]
