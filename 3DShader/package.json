@@ -1,0 +1,19 @@
+{
+  "name": "com.maskedkitten.3dshader",
+  "displayName": "3D Shader",
+  "version": "1.0.0",
+  "description": "A shader that makes textures 3D! Make sure to use displacement maps to use this, and put it under HeightMap.",
+  "unity": "2021.3",
+  "dependencies": {
+  },
+  "keywords": [
+    "fat-usagi",
+    "utility"
+  ],
+  "author": {
+    "name": "Masked Kitten",
+    "email": "maskedkitten473@gmail.com",
+    "url": "https://github.com/maskedkittencool"
+  },
+  "type": "library"
+}
