@@ -5,7 +5,17 @@
       "displayName": "Music Shuffling",
       "description": "Little music shuffling package, multiple songs and cooldown between songs",
       "version": "1.0.0",
-      "gitUrl": "https://github.com/maskedkittencool/FatUsagiManager.git?path=/MusicShuffling"
+      "files": [
+        "MusicShuffling/Runtime/DisableMusic.cs",
+        "MusicShuffling/Runtime/EnableMusic.cs",
+        "MusicShuffling/Runtime/MusicShuffle.cs",
+        "MusicShuffling/Runtime/DisableMusic.cs",
+        "MusicShuffling/Runtime/Examples/Materials/New Material 1.mat",
+        "MusicShuffling/Runtime/Examples/Materials/New Material 2.mat",
+        "MusicShuffling/Runtime/Examples/Materials/New Material 3.mat",
+        "MusicShuffling/Runtime/Examples/Materials/New Material.mat",
+        "MusicShuffling/Runtime/Examples/Prefab/MusicPlayer.prefab"
+      ]
     }
   ]
 }
