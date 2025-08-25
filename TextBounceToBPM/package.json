@@ -1,6 +1,6 @@
 {
   "name": "com.maskedkitten.bpmbounce",
-  "displayName": "text Bounce to BPM",
+  "displayName": "Text Bounce to BPM",
   "version": "1.0.0",
   "description": "A script that makes your text bounce to a certain BPM.",
   "unity": "2021.3",
