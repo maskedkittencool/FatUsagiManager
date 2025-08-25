@@ -1,0 +1,19 @@
+{
+  "name": "com.maskedkitten.musicshuffling",
+  "displayName": "Music Shuffling",
+  "version": "1.0.0",
+  "description": "Little music shuffling package, multiple songs and cooldown between songs",
+  "unity": "2021.3",
+  "dependencies": {
+  },
+  "keywords": [
+    "fat-usagi",
+    "utility"
+  ],
+  "author": {
+    "name": "Masked Kitten",
+    "email": "maskedkitten473@gmail.com",
+    "url": "https://github.com/maskedkittencool"
+  },
+  "type": "library"
+}
