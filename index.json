@@ -27,6 +27,16 @@
       "files": [
         "AdvancedEnableDisable/Runtime/AdvancedEnableDisable.cs"
       ]
+    },
+    {
+      "name": "com.maskedkitten.bpmbounce",
+      "displayName": "Text Bounce to BPM",
+      "description": "A script that makes your text bounce to a certain BPM.",
+      "version": "1.0.0",
+      "author": "MaskedKitten",
+      "files": [
+        "TextBounceToBPM/Runtime/TextBounce.cs"
+      ]
     }
   ]
 }
