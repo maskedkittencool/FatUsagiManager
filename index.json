@@ -55,7 +55,7 @@
       "version": "1.0.0",
       "author": "MaskedKitten",
       "files": [
-        "EasyWebhooks/Runtime/EasyWebhooks.cs",
+        "EasyWebHooks/Runtime/EasyWebhooks.cs",
         "EasyWebHooks/Runtime/EasyWebhookTest.cs"
       ]
     }
