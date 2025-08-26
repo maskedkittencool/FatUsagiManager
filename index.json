@@ -47,6 +47,17 @@
       "files": [
         "3DShader/Runtime/POMShader.shadergraph"
       ]
+    },
+    {
+      "name": "com.maskedkitten.easywebhook",
+      "displayName": "Easy Webhooks",
+      "description": "SUPER simple webhook calling",
+      "version": "1.0.0",
+      "author": "MaskedKitten",
+      "files": [
+        "EasyWebhooks/Runtime/EasyWebhooks.cs",
+        "EasyWebhooks/Runtime/EasyWebhookTest.cs"
+      ]
     }
   ]
 }
