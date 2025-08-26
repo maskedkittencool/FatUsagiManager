@@ -1,0 +1,19 @@
+{
+  "name": "com.maskedkitten.easywebhooks",
+  "displayName": "Easy Webhooks",
+  "version": "1.0.0",
+  "description": "SUPER simple webhook calling",
+  "unity": "2021.3",
+  "dependencies": {
+  },
+  "keywords": [
+    "fat-usagi",
+    "utility"
+  ],
+  "author": {
+    "name": "Masked Kitten",
+    "email": "maskedkitten473@gmail.com",
+    "url": "https://github.com/maskedkittencool"
+  },
+  "type": "library"
+}
