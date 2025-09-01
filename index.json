@@ -58,7 +58,7 @@
         "EasyWebHooks/Runtime/EasyWebhooks.cs",
         "EasyWebHooks/Runtime/EasyWebhookTest.cs"
       ]
-    }
+    },
     {
       "name": "com.maskedkitten.onlyupmeter",
       "displayName": "Only Up Meter",
