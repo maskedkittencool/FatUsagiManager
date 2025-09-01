@@ -59,7 +59,7 @@
         "EasyWebHooks/Runtime/EasyWebhookTest.cs"
       ]
     },
-    {
+        {
       "name": "com.maskedkitten.onlyupmeter",
       "displayName": "Only Up Meter",
       "description": "Meter that measures how high you are.",
