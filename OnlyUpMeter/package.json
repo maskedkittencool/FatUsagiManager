@@ -1,0 +1,19 @@
+{
+  "name": "com.maskedkitten.onlyupmeter",
+  "displayName": "Only Up Meter",
+  "version": "1.0.0",
+  "description": "Meter that measures how high you are.",
+  "unity": "2021.3",
+  "dependencies": {
+  },
+  "keywords": [
+    "fat-usagi",
+    "utility"
+  ],
+  "author": {
+    "name": "Masked Kitten",
+    "email": "maskedkitten473@gmail.com",
+    "url": "https://github.com/maskedkittencool"
+  },
+  "type": "library"
+}
